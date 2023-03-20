@@ -73,36 +73,29 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Better Mortgage",
+        "title": "Servicing Support Specialist",
+        "years": "08.2020 - 2023",
         "mainTech": [
-          "Angular 8/9/10"
+          ""
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "Jira",
+          "Go",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "TypeScript"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "ArtViva",
+        "title": "Marketing Associate",
+        "years": "01.2019 - 12.2019",
         "mainTech": [
-          "Angular 7/8"
+          ""
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
+          "Instagram",
+          "Monday",
           "DHTMLX Gantt"
         ]
       }
